@@ -1,7 +1,7 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/win32-x64-prod-v2.0.2-lina",
-    "install": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/win32-x64-prod-v2.0.2-lina/seed-launchpad.Setup.2.0.2-lina.exe",
-    "version": "2.0.2-lina"
+    "update": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/win32-x64-prod-v2.0.2-lina-ip",
+    "install": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/win32-x64-prod-v2.0.2-lina-ip/seed-launchpad.Setup.2.0.2-lina-ip.exe",
+    "version": "2.0.2-lina-ip"
   }
 }
