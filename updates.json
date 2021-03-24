@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/linux-x64-prod-v2.0.7/seed-launchpad-2.0.7.AppImage",
-    "install": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/linux-x64-prod-v2.0.7/seed-launchpad-2.0.7.AppImage",
-    "version": "2.0.7",
-    "sha256": "104d0827d04efc9df1a146a75ada1b92375a601a760d1bd5df37d827fdb6107c"
+    "update": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/linux-x64-prod-v2.0.8-lina-switch/seed-launchpad-2.0.8-lina-switch.AppImage",
+    "install": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/linux-x64-prod-v2.0.8-lina-switch/seed-launchpad-2.0.8-lina-switch.AppImage",
+    "version": "2.0.8-lina-switch",
+    "sha256": "d5e02217fd46bbabfc33784f6ebfa9cc555814929157b63e39246928f7930589"
   }
 }
