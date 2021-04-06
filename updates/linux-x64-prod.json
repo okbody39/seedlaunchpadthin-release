@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/linux-x64-prod-2.0.10-lina-inner-dn/seed-launchpad-2.0.10-lina-inner-dn.AppImage",
-    "install": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/linux-x64-prod-2.0.10-lina-inner-dn/seed-launchpad-2.0.10-lina-inner-dn.AppImage",
-    "version": "2.0.10-lina-inner-dn",
-    "sha256": "4fff68b30af6a2e8442d60b1e0e4dc0a471e2dba82d8307822943533161ee1c1"
+    "update": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/linux-x64-prod-2.0.10-lina-inner-dn9/seed-launchpad-2.0.10-lina-inner-dn9.AppImage",
+    "install": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/linux-x64-prod-2.0.10-lina-inner-dn9/seed-launchpad-2.0.10-lina-inner-dn9.AppImage",
+    "version": "2.0.10-lina-inner-dn9",
+    "sha256": "28ca2be0e5c5e3f69e6f60219096905280e4055e287f344736ff8e77fb144350"
   }
 }
