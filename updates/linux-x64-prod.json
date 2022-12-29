@@ -1,8 +1,8 @@
 {
   "linux-x64-prod": {
-    "update": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/linux-x64-prod-4.0.0/seed-launchpad-4.0.0.AppImage",
-    "install": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/linux-x64-prod-4.0.0/seed-launchpad-4.0.0.AppImage",
-    "version": "4.0.0",
-    "sha256": "b8ec3d260f35153dab56f52d50d826356e4892098db1f3fadb0080c41a684c9e"
+    "update": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/linux-x64-prod-4.0.1/seed-launchpad-4.0.1.AppImage",
+    "install": "https://github.com/okbody39/seedlaunchpadthin-release/releases/download/linux-x64-prod-4.0.1/seed-launchpad-4.0.1.AppImage",
+    "version": "4.0.1",
+    "sha256": "d5efe302dcf0e82b8a9fac489793511540cd7872d505accb129a0b5f9af648e6"
   }
 }
